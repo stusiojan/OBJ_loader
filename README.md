@@ -1,7 +1,8 @@
 # ObjLoader
-Generate_simple_scene.py is a script for generating scene in blender.
+Generate_simple_scene.py is a script for generating scene with a Cornell box in blender.
 
-ObjLoader
+ObjLoader.h is a C++ header file loader
+LoadObj.cpp is a C++ file that loads .obj file generated in Generate_simple_scene.py
 
 # Sources
 I have been following this tutorial:
